@@ -33,6 +33,10 @@
 		<div>
 			<span>FOOteR</span>
 		</div>
+		<h4>Добавил футер</h4>
+		<div>
+			<span>FOOteR</span>
+		</div>
 	</div>
 
 <!--jQuery js-->
